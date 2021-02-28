@@ -1,0 +1,52 @@
+.titulos-panes {
+    border: 5px outset #000000;
+    background-color: #FFF5CE;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20pt;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 10px;
+	font-weight: bold;
+}
+img {
+    display:block;
+    margin:auto;
+}
+.texto-panes {
+    border: 3px outset #000000;
+    background-color: #FFF8DC;
+    text-align: left;
+    font-size: 14pt;
+    margin: auto 400px;
+	width: "450"
+}
+
+body {
+    background-image: url(imagenes/aw-krescent1.jpg);
+    background-repeat: yes-repeat;
+    background-attachment: fixed;
+}
+.texto-descripcion {
+    border: 3px outset #000000;
+    background-color: #FFF8DC;
+    text-align: left;
+    font-size: 14pt;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+	text-align: center;
+}
+.texto-volver {
+	background-color: #FFF8DC;
+    border: 3px solid black;
+    padding: 10px;
+    margin: auto auto;
+    width: 212px;
+    font-size: 14pt;
+}
+.ingredientes {
+    text-decoration: underline;
+    font-size: 1em;
+    font-weight: bold;
+}
